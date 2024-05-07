@@ -1,0 +1,54 @@
+﻿.divBox1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tltWeb1-1 {
+    font-size: 70px;
+    color: white;
+    text-align: center;
+}
+
+.tltWeb1-2 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.lblWeb1-1 {
+    font-size: 25px;
+    color: white;
+}
+
+.txtWeb1-1 {
+    font-size: 25px;
+    color: black;
+    padding: 0px;
+    height: auto;
+    width: 20%;
+}
+
+table, th, td {
+    width: 0%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    background-color: #C2BB00;
+}
+
+table, th {
+    width: 0%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    background-color: #E1523D;
+    text-align: center;
+}
+table {
+    width: 100%;
+}
+
+.imgInv1 {
+    width: 50px;
+}
